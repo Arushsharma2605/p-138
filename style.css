@@ -1,0 +1,39 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading button
+{
+    float: right;
+    border:1px solid orange;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+h4
+{
+    background-color: aquamarine;
+    color: darkblue;
+    line-height: 2;
+}
